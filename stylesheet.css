@@ -220,7 +220,11 @@ li {
 
 
 .reshipi {
-  padding-top: 20px;
+  padding-top: 10px;
+}
+
+.reshipi ul{
+  padding-bottom: 30px;
 }
 
 .reshipi li{
